@@ -1,0 +1,4 @@
+ 1 geisha 4000 200
+ 1 geisha 4000 200
+ 2 Cake 1000 100
+ 3 rwenzori 2000 0
